@@ -954,4 +954,5 @@
 
 .mud-input-iti:focus-within label {
     opacity: 1;
+    line-height: 0.1 !important;
 }
